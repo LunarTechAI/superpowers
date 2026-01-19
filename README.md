@@ -77,6 +77,18 @@ Skills are structured instruction sets that teach AI agents how to perform speci
 |-------|-------------|
 | [using-git-worktrees](skills/using-git-worktrees/) | Git worktree workflows |
 
+### 🎬 Creative & Media
+| Skill | Description |
+|-------|-------------|
+| [whisk-product-visuals](skills/whisk-product-visuals/) | AI-powered product photography with Google Whisk |
+| [scroll-based-3d-animations](skills/scroll-based-3d-animations/) | Immersive scroll-driven 3D web animations |
+| [video-to-frames-workflow](skills/video-to-frames-workflow/) | Extract video frames for scroll animations & sprites |
+
+### 🚀 Deployment
+| Skill | Description |
+|-------|-------------|
+| [ai-website-deployment](skills/ai-website-deployment/) | Deploy AI-generated sites to Vercel, Netlify, etc. |
+
 ### 📚 Meta
 | Skill | Description |
 |-------|-------------|
